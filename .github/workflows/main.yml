@@ -31,8 +31,8 @@ jobs:
 
     - name: Checkout history branch
       run: |
-        git config --global user.name "jstrieb/github-stats"
-        git config --global user.email "github-stats[bot]@jstrieb.github.io"
+        git config --global user.name "github-stats"
+        git config --global user.email "bot@932.moe"
         # Push generated files to the generated branch
         git pull
         git checkout generated || git checkout -b generated
@@ -45,7 +45,7 @@ jobs:
         EXCLUDE_REPOS: ${{ secrets.EXCLUDE_REPOS }}
         EXCLUDE_LANGS: ${{ secrets.EXCLUDE_LANGS }}
         EXCLUDE_PRIVATE: "false"
-        SILENT: "false"
+        SILENT: "true"
         # TODO: Remove this when they get their API working again
         # https://github.com/orgs/community/discussions/192970
         MAX_RETRIES: 5
