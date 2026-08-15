@@ -134,31 +134,31 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #00ADD8; 
-  width: 27.374%;
+  width: 27.371%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 17.997%;
+  width: 17.995%;
 " class="progress-item"></span><span style="
   background-color: #41b883; 
-  width: 15.333%;
+  width: 15.331%;
 " class="progress-item"></span><span style="
   background-color: #4F5D95; 
-  width: 8.367%;
+  width: 8.366%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 7.739%;
+  width: 7.751%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 6.689%;
+  width: 6.688%;
 " class="progress-item"></span><span style="
   background-color: #c6538c; 
-  width: 3.317%;
+  width: 3.316%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 3.069%;
+  width: 3.068%;
 " class="progress-item"></span><span style="
   background-color: #dea584; 
-  width: 2.776%;
+  width: 2.775%;
 " class="progress-item"></span><span style="
   background-color: #ff5a03; 
   width: 1.968%;
@@ -173,7 +173,7 @@ div.ellipsis {
   width: 0.680%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 0.629%;
+  width: 0.628%;
 " class="progress-item"></span><span style="
   background-color: #ec915c; 
   width: 0.475%;
@@ -234,7 +234,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TypeScript</span>
-  <span class="percent">18.00%</span>
+  <span class="percent">17.99%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -282,7 +282,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">HTML</span>
-  <span class="percent">7.74%</span>
+  <span class="percent">7.75%</span>
 </li>
 <li style="animation-delay: 900ms;">
   <svg 
@@ -442,7 +442,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Zig</span>
-  <span class="percent">0.48%</span>
+  <span class="percent">0.47%</span>
 </li>
 <li style="animation-delay: 2400ms;">
   <svg 
